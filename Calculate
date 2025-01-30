@@ -1,2 +1,6 @@
 console.Writeline('Name : Hamza');
 console.Writeline('role no : 81');
+console.Writeline(a+b);
+console.Writeline(a-b);
+console.Writeline(a*b);
+console.Writeline('a/b);
